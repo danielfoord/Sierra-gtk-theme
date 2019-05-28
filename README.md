@@ -59,6 +59,10 @@ sudo apt install sierra-gtk-theme-git   # git master branch
 
 ### From source
 
+```
+sudo apt install sassc
+```
+
 Run
 
     ./install.sh

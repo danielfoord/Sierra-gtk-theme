@@ -2277,7 +2277,7 @@ headerbar scale trough {
 }
 
 headerbar scale trough:disabled {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: transparent;
 }
 
 .path-bar button {
